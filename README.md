@@ -7,8 +7,8 @@ Skill 本体只有几个 markdown 和 shell 脚本。首次使用时自动浅克
 ## 安装
 
 ```bash
-npx skills add <owner>/mediacrawler-skill        # 项目级
-npx skills add <owner>/mediacrawler-skill -g     # 用户级
+npx skills add lucas77778/mediacrawler-skill        # 项目级
+npx skills add lucas77778/mediacrawler-skill -g     # 用户级
 ```
 
 或手动复制 `skills/mediacrawler/` 到 agent 的 skill 目录（`.claude/skills/`、`.agents/skills/` 等）。
